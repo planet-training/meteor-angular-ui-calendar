@@ -1,7 +1,8 @@
 Package.describe({
   summary: "Fullcalendar as ui-component",
   name: "planettraining:angular-ui-calendar",
-  version: "0.0.1"
+  version: "0.0.2",
+  git:"https://github.com/planet-training/meteor-angular-ui-calendar.git"
 });
 
 
