@@ -1,0 +1,20 @@
+{
+  "name": "meteor-angular-ui",
+  "version": "0.0.0",
+  "authors": [
+    "support@planet.training"
+  ],
+  "license": "private",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar":"~2.3.1",
+    "angular-ui-calendar":"~0.8.1"
+  }
+}
