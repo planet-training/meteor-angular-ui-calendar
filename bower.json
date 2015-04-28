@@ -1,6 +1,6 @@
 {
   "name": "meteor-angular-ui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "support@planet.training"
   ],
@@ -15,6 +15,6 @@
   ],
   "dependencies": {
     "fullcalendar":"~2.3.1",
-    "angular-ui-calendar":"~0.8.1"
+    "angular-ui-calendar":"latest"
   }
 }

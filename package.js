@@ -1,8 +1,8 @@
 Package.describe({
-  summary: "Fullcalendar as ui-component",
-  name: "planettraining:angular-ui-calendar",
-  version: "0.0.3",
-  git:"https://github.com/planet-training/meteor-angular-ui-calendar.git"
+  summary: "AngularJs directive for Arshaw FullCalendar",
+  name: "angularui:ui-calendar",
+  version: "0.8.1",
+  git:"https://github.com/angular-ui/ui-calendar.git"
 });
 
 
@@ -11,7 +11,7 @@ Package.onUse(function (api) {
 
   api.use("jquery", "client");
   api.use("momentjs:moment@2.0.0");
-  api.use("urigo:angular@0.8.4", ["client", "server"]);
+  api.use("angular:angular@1.3.15", "client");
 
   api.addFiles([
     'bower_components/jquery-ui/ui/jquery.ui.core.js',
