@@ -15,6 +15,6 @@
   ],
   "dependencies": {
     "fullcalendar":"~2.3.1",
-    "angular-ui-calendar":"latest"
+    "angular-ui-calendar":"0.8.1"
   }
 }

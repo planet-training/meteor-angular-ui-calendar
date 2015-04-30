@@ -4,3 +4,6 @@ Adds angular ui-calendar directive for Meteor. This package is only a wrapper to
 ## Example 
 Here is a showcase how to add the basic functionality into your app controller:
 * https://gist.github.com/dohomi/d0ba6abdb30834fb6bba
+
+## Install
+meteor add angularui:ui-calendar
