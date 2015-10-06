@@ -1,7 +1,7 @@
 Package.describe({
   summary: "AngularJs directive for Arshaw FullCalendar",
   name: "angularui:ui-calendar",
-  version: "1.0.0",
+  version: "1.0.1",
   git:"https://github.com/angular-ui/ui-calendar.git"
 });
 
